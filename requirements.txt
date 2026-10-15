@@ -1,0 +1,4 @@
+falkordblite==0.10.0
+falkordb==1.8.0
+flask==3.1.0
+pytest==8.3.0
