@@ -1,6 +1,6 @@
 # Why I put my agent's memory in a graph
 
-*Built for Graph Hacks (WeMakeDevs × FalkorDB) — the project is [Trace](https://github.com), a research agent whose memory is a FalkorDB graph.*
+*Built for Graph Hacks (WeMakeDevs × FalkorDB) — the project is [Trace](https://github.com/swarnnim/trace), a research agent whose memory is a FalkorDB graph.*
 
 Every agent I've built has had the same two embarrassing failure modes. First, it
 forgets. Ask it about the payments outage on Monday, ask again on Thursday, and
